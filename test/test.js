@@ -1,4 +1,4 @@
-const { sqlz } = require('../lib/index');
+const { sqlz } = require('../index');
 const path = require('path');
 
 console.log(sqlz)

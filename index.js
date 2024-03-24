@@ -1,5 +1,5 @@
 
-const Db = require('./db');
+const Db = require('./lib/db');
 
 /**
  * sqlz  初始化Db
