@@ -8,9 +8,20 @@
 你可以不用编写任何sql语句更直观的管理你的数据库
 
 
+# 安装
+
+```bash
+
+npm i sqlz
+
+```
+
+
+# 使用示例
+
 ```javascript
 
-const { sqlz } = require('../lib/index');
+const { sqlz } = require('sqlz');
 const path = require('path');
 
 console.log(sqlz)
